@@ -1,2 +1,4 @@
 # Amazon-Clone
-✨ created an amazon clone using html5 and css3
+Tech Stack:
+✨Frontend: HTML5,CSS3
+ -->This Project replicates the overall design of the Amazon!
